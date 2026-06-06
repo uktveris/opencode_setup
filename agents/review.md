@@ -1,7 +1,7 @@
 ---
 description: Reviews code for quality and best practices
 mode: subagent
-model: kimi-k2.5-free
+model: opencode/kimi-k2.5-free
 temperature: 0.1
 tools:
   write: false
